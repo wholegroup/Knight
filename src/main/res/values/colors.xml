@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- цвет фона выделенной клетки -->
+	<color name="selected">#300050FF</color>
+	
+	<!-- полупрозрачный накладываемый на весь экран для эффекта затемнения -->
+	<color name="blackout">#90000000</color>
+	
+	<!-- цвет надписи окончания игры -->
+	<color name="endgame_text">#FFFFFFFF</color>
+	<color name="endgame_text_border">#50000000</color>
+
+	<!-- рамка игрового поля -->
+	<color name="field_border_fg">#90FFFFFF</color>
+	<color name="field_border_bg">#FF000000</color>
+
+	<!-- фигура коня -->
+	<color name="knight_color">#FF000000</color>
+	<color name="knight_border">#50FFFFFF</color>
+	<color name="knight_gradient_start">#FF000000</color>
+	<color name="knight_gradient_stop">#FF303030</color>
+
+	<!-- фишка занятой клетки -->
+	<color name="busy_gradient_start">#FFbc7863</color>
+	<color name="busy_gradient_stop">#FF632e02</color>
+	<color name="busy_border">#90632e02</color>
+
+</resources>
